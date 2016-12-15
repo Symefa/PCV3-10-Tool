@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hashtable", "hashtable\hashtable.csproj", "{04D160C4-97F8-4DB9-BDE4-081B0DF30359}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashFile", "HashFile\HashFile.csproj", "{05F9965A-BEA1-4C3D-B911-EE6D7247D5C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04D160C4-97F8-4DB9-BDE4-081B0DF30359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D160C4-97F8-4DB9-BDE4-081B0DF30359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04D160C4-97F8-4DB9-BDE4-081B0DF30359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04D160C4-97F8-4DB9-BDE4-081B0DF30359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05F9965A-BEA1-4C3D-B911-EE6D7247D5C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F9965A-BEA1-4C3D-B911-EE6D7247D5C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F9965A-BEA1-4C3D-B911-EE6D7247D5C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F9965A-BEA1-4C3D-B911-EE6D7247D5C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
